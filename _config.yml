@@ -12,6 +12,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+gems:
+  - jekyll-include-cache
+
 author:
   name: "Ansh Arora"
   avatar: "assets/images/img.jpg"

@@ -1,9 +1,9 @@
 
 title: Ansh Arora
 email: ansharora@umass.edu
-description: >- 
+description: >-
   Personal academic website showcasing bio, CV, publications, and contact details.
-baseurl: "" 
+baseurl: ""
 url: "https://ansharora7.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
@@ -25,7 +25,7 @@ author:
       url: "mailto:ansharora@umass.edu"
     - label: "CV"
       icon: "fas fa-file"
-      url: "assets/files/CV.pdf"
+      url: "/assets/files/CV.pdf"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=P-CP_R4AAAAJ&hl=en&oi=ao"

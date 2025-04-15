@@ -1,8 +1,7 @@
-
 ---
 layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-Download the CV [here](/assets/files/CV.pdf).
+You can download my full CV [here](/assets/files/CV.pdf).

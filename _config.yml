@@ -1,0 +1,39 @@
+title: Ansh Arora
+email: ansharora@umass.edu
+description: >- 
+  Personal academic website showcasing bio, CV, publications, and contact details.
+baseurl: "" 
+url: "https://ansharora7.github.io"
+
+theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+author:
+  name: “Ansh Arora"
+  avatar: "assets/images/img.jpg"
+  bio: "Your professional tagline goes here."
+  location: “Amherst, Massachusetts, U.S.A”
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:ansharora@umass.edu”
+    - label: "CV"
+      icon: "fas fa-file"
+      url: "assets/files/resume.pdf”
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=P-CP_R4AAAAJ&hl=en&oi=ao"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/ansharora7”
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/anshkarora
+
+markdown: kramdown

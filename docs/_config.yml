@@ -1,3 +1,4 @@
+
 title: Ansh Arora
 email: ansharora@umass.edu
 description: >- 
@@ -5,7 +6,6 @@ description: >-
 baseurl: "" 
 url: "https://ansharora7.github.io"
 
-theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
@@ -16,7 +16,7 @@ plugins:
 
 author:
   name: "Ansh Arora"
-  avatar: "assets/images/img.jpg"
+  avatar: "assets/images/profile.jpg"
   bio: "Graduate student in CS at UMass Amherst, focusing on AI security, deep learning, and zero-shot learning."
   location: "Amherst, Massachusetts, U.S.A"
   links:
@@ -25,7 +25,7 @@ author:
       url: "mailto:ansharora@umass.edu"
     - label: "CV"
       icon: "fas fa-file"
-      url: "assets/files/resume.pdf"
+      url: "assets/files/CV.pdf"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=P-CP_R4AAAAJ&hl=en&oi=ao"

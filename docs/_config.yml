@@ -15,25 +15,25 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name: “Ansh Arora"
+  name: "Ansh Arora"
   avatar: "assets/images/img.jpg"
-  bio: "Your professional tagline goes here."
-  location: “Amherst, Massachusetts, U.S.A”
+  bio: "Graduate student in CS at UMass Amherst, focusing on AI security, deep learning, and zero-shot learning."
+  location: "Amherst, Massachusetts, U.S.A"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:ansharora@umass.edu”
+      url: "mailto:ansharora@umass.edu"
     - label: "CV"
       icon: "fas fa-file"
-      url: "assets/files/resume.pdf”
+      url: "assets/files/resume.pdf"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=P-CP_R4AAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/ansharora7”
+      url: "https://github.com/ansharora7"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/anshkarora
+      url: "https://linkedin.com/in/anshkarora"
 
 markdown: kramdown

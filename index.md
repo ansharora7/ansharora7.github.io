@@ -1,6 +1,7 @@
 ---
-layout: single
-title: "About Me"
+layout: home
+title: "Ansh Arora"
+author_profile: true
 permalink: /
 ---
 

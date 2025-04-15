@@ -1,14 +1,13 @@
 title: Ansh Arora
 email: ansharora@umass.edu
-description: >- 
+description: >-
   Personal academic website showcasing bio, CV, publications, and contact details.
-baseurl: "" 
+baseurl: ""
 url: "https://ansharora7.github.io"
 
-remote_theme: "mmistakes/minimal-mistakes"
+theme: "minimal-mistakes-jekyll"
 
 plugins:
-  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag

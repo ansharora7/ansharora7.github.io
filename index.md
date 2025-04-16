@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Ansh Arora"
+title: ""
 author_profile: true
 permalink: /
 ---

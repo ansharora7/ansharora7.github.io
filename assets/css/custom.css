@@ -21,13 +21,10 @@ header.site-header {
     border-bottom: 2px solid #ff5e00;
   }
   
-  /* Optional: If your nav items aren’t marked as active, you can force a style for links
-     that match the current URL. (This may require additional adjustments if the theme markup differs.) */
-  /*
-  .site-nav a[href="{{ page.url }}"] {
-    font-weight: bold;
-    color: #ff5e00;
-    border-bottom: 2px solid #ff5e00;
+  /* Increase author avatar size */
+.author__avatar img {
+    width: 150px !important;
+    height: auto; /* or specify height if desired, e.g., 150px */
+    max-width: 150px;
+    border-radius: 50%;
   }
-  */
-  

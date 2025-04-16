@@ -14,6 +14,11 @@ My work centers on enhancing the robustness, efficiency, and generalization of m
 
 Professionally, I’ve worked with research and development teams at University College London and MAQ Software, where I gained hands-on experience with LLM-based systems, scalable AI pipelines, and adversarial threat mitigation. I’ve also collaborated with researchers at Google DeepMind. My work has been published at venues like ACL and supported by competitive awards such as the DAAD-WISE Scholarship.
 
+
+## Publications
+
+{% include_relative publications.md %}
+
 ## 🗞 Recent News
 
 {% include_relative news.md %}

@@ -15,6 +15,8 @@ plugins:
 gems:
   - jekyll-include-cache
 
+markdown: kramdown
+
 author:
   name: "Ansh Arora"
   avatar: "/assets/images/profile.jpg"
@@ -37,8 +39,6 @@ author:
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/anshkarora"
 
-markdown: kramdown
-
 navigation:
   - title: "Home"
     url: "/"
@@ -47,8 +47,15 @@ navigation:
   - title: "Publications"
     url: "/publications/"
 
+header:
+  nav: true
+
+# Optional but nice: define order of pages and skin
 header_pages:
   - index.md
   - cv.md
   - publications.md
   - contact.md
+
+# Pick your style: default | dark | air | neon | sunrise | contrast
+minimal_mistakes_skin: "default"

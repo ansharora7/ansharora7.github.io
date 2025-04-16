@@ -1,0 +1,33 @@
+/* 1. Make sure the header is sticky */
+header.site-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  /* 2. Add top padding to the body so that page content isn’t hidden behind the fixed header.
+     Adjust the padding value (in pixels) as needed based on your header height. */
+  body {
+    padding-top: 80px; /* Change this if your header is taller */
+  }
+  
+  /* 3. Highlight the active navigation tab.
+     Minimal Mistakes should automatically mark the active nav item with a class "active". */
+  .navbar a.active,
+  .site-nav a.active {
+    font-weight: bold;
+    color: #ff5e00; /* Change this color to your desired active color */
+    border-bottom: 2px solid #ff5e00;
+  }
+  
+  /* Optional: If your nav items aren’t marked as active, you can force a style for links
+     that match the current URL. (This may require additional adjustments if the theme markup differs.) */
+  /*
+  .site-nav a[href="{{ page.url }}"] {
+    font-weight: bold;
+    color: #ff5e00;
+    border-bottom: 2px solid #ff5e00;
+  }
+  */
+  

@@ -7,6 +7,10 @@ url: "https://ansharora7.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
+header_sticky: true
+custom_css:
+  - "/assets/css/custom.css"
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -49,8 +53,8 @@ navigation:
 header:
   nav: true
 
+# Removed header_pages to avoid conflicts
 
-# Pick your style: default | dark | air | neon | sunrise | contrast
 minimal_mistakes_skin: "default"
 
 footer:

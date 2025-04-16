@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: single
 title: "Ansh Arora"
 author_profile: true
 permalink: /
 ---
+
 
 {% include custom-header.html %}
 

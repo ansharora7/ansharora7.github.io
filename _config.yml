@@ -18,7 +18,7 @@ gems:
 author:
   name: "Ansh Arora"
   avatar: "/assets/images/profile.jpg"
-  bio: "Graduate student in CS at UMass Amherst, focusing on AI security, deep learning, and zero-shot learning."
+  bio: "Graduate student in CS at UMass Amherst, focusing on AI security, deep learning, and natural language processing."
   location: "Amherst, Massachusetts, U.S.A"
   links:
     - label: "Email"
@@ -38,3 +38,17 @@ author:
       url: "https://linkedin.com/in/anshkarora"
 
 markdown: kramdown
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Publications"
+    url: "/publications/"
+
+header_pages:
+  - index.md
+  - cv.md
+  - publications.md
+  - contact.md

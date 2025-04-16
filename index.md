@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Ansh Arora"
 author_profile: true
 permalink: /

@@ -49,12 +49,6 @@ navigation:
 header:
   nav: true
 
-# Optional but nice: define order of pages and skin
-header_pages:
-  - index.md
-  - cv.md
-  - publications.md
-  - contact.md
 
 # Pick your style: default | dark | air | neon | sunrise | contrast
 minimal_mistakes_skin: "default"

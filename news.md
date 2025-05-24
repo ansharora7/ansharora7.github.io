@@ -1,3 +1,6 @@
+- **May 2025** — Joined **Thales** in **Pasadena, CA** as a **Research Engineer Intern** in the **Identity & Biometrics R&D** team. Currently exploring fingerprint recognition, with a focus on robust representation learning and matching strategies in secure biometric systems.
+
+
 - **April 2025** — Started as a **Graduate Researcher at Google DeepMind**, contributing to cutting-edge work on **meta-optimization** and **adaptive model ensembling**. The research aims to improve training efficiency and generalization across deep learning tasks, with a focus on scalable architectures and long-range task adaptation.
 
 - **October 2024** — Published a blog post on **Medium** breaking down our ACL 2024 paper, covering the inspiration, methodology, and real-world implications of our approach to defending against backdoored NLP models.  

@@ -1,9 +1,9 @@
-- **May 2025** — Joined **Thales** in **Pasadena, CA** as a **Research Engineer Intern** in the **Identity & Biometrics R&D** team. Currently exploring fingerprint recognition, with a focus on robust representation learning and matching strategies in secure biometric systems.
+- **Aug 2025** — My internship at **Thales (Pasadena, CA)** was extended into Fall.  
+  Continued work in the Identity & Biometrics R&D team on large-scale fingerprint recognition, cross-attention–based CNN models, scalable evaluation pipelines, and deployment-ready inference systems, contributing to multiple patent filings.
 
+- **Apr 2025** — Started as a **Graduate Researcher at Google DeepMind**, working on **meta-optimization** and **adaptive model ensembling** for efficient and generalizable large-scale training.
 
-- **April 2025** — Started as a **Graduate Researcher at Google DeepMind**, contributing to cutting-edge work on **meta-optimization** and **adaptive model ensembling**. The research aims to improve training efficiency and generalization across deep learning tasks, with a focus on scalable architectures and long-range task adaptation.
+- **Oct 2024** — Published a blog post on **Medium** explaining our ACL 2024 paper, covering motivation, methodology, and real-world implications.  
+  ➡️ [Here’s a Free Lunch: Sanitizing Backdoored Models with Model Merge](https://medium.com/p/b753ab9a5b59)
 
-- **October 2024** — Published a blog post on **Medium** breaking down our ACL 2024 paper, covering the inspiration, methodology, and real-world implications of our approach to defending against backdoored NLP models.  
-  ➡️ [Read: “Here’s a Free Lunch: Sanitizing Backdoored Models with Model Merge”](https://medium.com/p/b753ab9a5b59)
-
-- **February 2024** — Our work *"Here’s a Free Lunch: Sanitizing Backdoored Models with Model Merge"* was accepted at **ACL 2024 (Findings)**. The paper introduces a defense that merges multiple models at inference-time, significantly reducing the effectiveness of NLP backdoor attacks (75%+ drop in attack success rate), while preserving clean accuracy. Evaluated across SST-2, QNLI, Amazon, and IMDB with BERT, RoBERTa, and Llama2/Mistral LLMs.
+- **Feb 2024** — Our paper *“Here’s a Free Lunch: Sanitizing Backdoored Models with Model Merge”* was accepted at **ACL 2024 (Findings)**, introducing an inference-time model merging defense that reduces NLP backdoor attack success by over 75% while preserving clean accuracy.

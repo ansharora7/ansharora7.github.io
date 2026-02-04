@@ -1,3 +1,5 @@
+- - **Jan 2026** — Our paper *“Defending Deep Neural Networks against Backdoor Attacks via Module Switching”* was accepted at **ICLR 2026**. We propose a post-training module-switching defense that disrupts spurious correlations in merged models, enabling effective backdoor mitigation across vision and language domains.
+
 - **Aug 2025** — My internship at **Thales (Pasadena, CA)** was extended into Fall.  
   Continued work in the Identity & Biometrics R&D team on large-scale fingerprint recognition, cross-attention–based CNN models, scalable evaluation pipelines, and deployment-ready inference systems, contributing to multiple patent filings.
 
